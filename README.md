@@ -62,5 +62,5 @@ So, what's the catch? Here's the real talk on what this experimental project can
 This project would have been impossible without the incredible open-source community and data providers.
 
 * A huge thank you to the **Free Music Archive (FMA)** and all the artists who generously shared their music. The `fma_small` dataset was the backbone of this entire experiment.
-* Massive props to the teams and contributors behind **PyTorch**, **Librosa**, **Pydub**, and **scikit-learn**. Your tools are amazing and make complex projects like this accessible to solo developers everywhere.
-* And Gemini 2.5 Pro from [@google](https://github.com/google), to assist and help me creating this experimental + crazy project with amazing AI model.
+* Massive props to the teams and contributors behind **PyTorch**, **Librosa**, and **Pydub**. Your tools are amazing and make complex projects like this accessible to solo developers everywhere.
+* Gemini 2.5 Pro from [@google](https://github.com/google), to assist and help me creating this experimental + crazy project with amazing AI model.
